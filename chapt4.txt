@@ -1,1 +1,2 @@
 I'm now learing branching and merging in git.
+Though it has been an easy task.
